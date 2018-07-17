@@ -1,0 +1,43 @@
+.header{
+	background: pink;
+	padding: 50px;
+	margin: auto;
+	border: 40px turquoise solid;
+	border-style: groove;
+}
+.sidebar{
+	background: rgba(255,0,0,0.2);
+	padding: 40px;
+	margin: auto;
+	border: 30px turquoise solid;
+	border-style: inset;
+}
+.lmao{
+	background: rgba(0,0,255,0.3);
+	padding: 50px;
+	margin: auto;
+	border: 50px turquoise solid;
+	border-style: ridge;}
+.lmao img{
+	height: 100px;
+	width: 100px;}
+.main{
+	background: rgba(0,0,255,0.23);
+	padding: 40px;
+	margin: auto;
+	border: 30px aquamarine solid;
+	border-style: outset;
+	display: inline-block}
+.bottom{
+	background: rgba(0,0,255,0.23);
+	padding: 40px;
+	margin: auto;
+	border: 30px aquamarine solid;
+	border-style: inset;
+	display: inline-block;
+	height:80px;
+	width: 43px; }
+
+
+
+
