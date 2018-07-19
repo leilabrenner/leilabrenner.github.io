@@ -27,16 +27,14 @@
 	margin: auto;
 	border: 30px aquamarine solid;
 	border-style: outset;
-	display: inline-block}
+	}
 .bottom{
 	background: rgba(0,0,255,0.23);
 	padding: 40px;
 	margin: auto;
 	border: 30px aquamarine solid;
 	border-style: inset;
-	display: inline-block;
-	height:80px;
-	width: 43px; }
+	 }
 
 
 
