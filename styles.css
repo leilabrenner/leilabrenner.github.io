@@ -32,6 +32,9 @@
 	border: 30px aquamarine solid;
 	border-style: outset;
 	}
+.main{
+	height: 200px;
+	width: 200px;}
 .bottom{
 	background: rgba(0,0,255,0.3);
 	padding: 40px;
