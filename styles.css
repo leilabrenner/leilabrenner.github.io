@@ -22,14 +22,14 @@
 	height: 200px;
 	width: 200px;}
 .main{
-	background: rgba(0,3,255,0.23);
+	background: rgba(0,255,0,0.3);
 	padding: 40px;
 	margin: auto;
 	border: 30px aquamarine solid;
 	border-style: outset;
 	}
 .bottom{
-	background: rgba(8,0,255,0.23);
+	background: rgba(0,0,255,0.3);
 	padding: 40px;
 	margin: auto;
 	border: 30px aquamarine solid;
