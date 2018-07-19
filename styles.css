@@ -12,6 +12,9 @@
 	border: 30px pink solid;
 	border-style: inset;
 }
+.sidebar img{
+	height:400px;
+	width: 400px;}
 .lmao{
 	background: pink);
 	padding: 50px;
